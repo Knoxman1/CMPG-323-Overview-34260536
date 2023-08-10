@@ -1,8 +1,12 @@
 # CMPG-323-Overview-34260536
 Project 1
 CMPG-323-Overview-34260536 is the repositories that has beeen  created and used for each project
+
+
 A diagram explaining project and repository 
+
 ![IT dev picture](https://github.com/Knoxman1/CMPG-323-Overview-34260536/assets/92250078/965a3b4d-93b1-40bb-8b3c-cd1e86aff97d)
+
 - Workflow Configuration: These files serve as the settings for the particular workflow or continuous integration (CI) configuration you have chosen. It might contain files for programs like Jenkins, Travis CI, GitHub Actions, etc. These files specify the development, testing, and deployment processes for your code.
 
     Code Files: The actual source code files for your project are referred to by this term. These might be composed of scripts, libraries, and other resources needed for your project and developed in a variety of programming languages.
