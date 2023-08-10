@@ -22,3 +22,6 @@ In a Git repository, the main branch is the default branch. It often represents 
 Branching in GitHub enables a collaborative and organized approach to software development. It helps developers work on different features or fixes simultaneously, and it also aids in maintaining a stable main codebase. GitHub provides tools and features that make it easy to create, manage, and merge branches, ensuring a seamless collaborative coding experience.
 "Storage of credentials and sensitive information"
 Protecting the usere inportant iformation ,sharing  Ooly what's necessary when collaborating with others, only share the specific credentials or access required for their tasks. Avoid sharing more access than necessary.If you need to store sensitive data in files, use encryption. Encrypt the data before storing it and decrypt it when needed in your code. Never store plain-text passwords or keys in files.
+
+![Screenshot 2023-08-10 163958](https://github.com/Knoxman1/CMPG-323-Overview-34260536/assets/92250078/82ec01da-9851-4678-82e0-8be76ef46444)
+![Screenshot 2023-08-10 163922 png --it opp](https://github.com/Knoxman1/CMPG-323-Overview-34260536/assets/92250078/1e1bec96-9d28-47e6-8fe6-dc9355695c82)
